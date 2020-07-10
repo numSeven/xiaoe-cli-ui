@@ -40,6 +40,7 @@ export default {
                      let a
                      let a
                      let a
+                     let a
                 }
                 el.onmouseup = function () {
                      this.style.background = ''
