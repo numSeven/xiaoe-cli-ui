@@ -34,6 +34,7 @@ export default {
             inserted(el) {
                 el.onmousedown = function () {
                      this.style.background = 'inherit'
+                     
                 }
                 el.onmouseup = function () {
                      this.style.background = ''
