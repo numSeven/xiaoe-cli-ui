@@ -26,7 +26,6 @@ export default {
             type: Array,
             default() {
                 return [];
-                
             }
         }
     },
@@ -35,7 +34,11 @@ export default {
             inserted(el) {
                 el.onmousedown = function () {
                      this.style.background = 'inherit'
-                     
+                     let a
+                     let a
+                     let a
+                     let a
+                     let a
                 }
                 el.onmouseup = function () {
                      this.style.background = ''
